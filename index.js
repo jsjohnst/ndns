@@ -1,1 +1,1 @@
-require('./lib/ndns.js');
+module.exports = require('./lib/ndns.js');
