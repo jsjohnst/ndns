@@ -1,0 +1,17 @@
+{
+  "name": "ndns",
+  "description": "dns library for node.js",
+  "version": "0.1.2",
+  "homepage": "http://github.com/stefounet/ndns",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/stefounet/ndns.git"
+  },
+  "author": "tomas",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
